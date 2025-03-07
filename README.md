@@ -1,4 +1,4 @@
-# 📘 Kumpulan Kisi-kisi & Soal LKS (Lomba Kompetensi Siswa)
+# 📘 Kumpulan Soal & Kisi-kisi LKS (Lomba Kompetensi Siswa)
 Repo ini berisi kumpulan kisi-kisi dan soal dari berbagai bidang lomba dalam Lomba Kompetensi Siswa (LKS) tingkat sekolah, provinsi, hingga nasional. Cocok untuk persiapan menghadapi LKS! 💪🎯
 	
 ## 🔥 Kontribusi
